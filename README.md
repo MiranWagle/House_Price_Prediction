@@ -4,7 +4,7 @@
 
 An end-to-end machine learning project that predicts house prices based on various property features such as area, bedrooms, bathrooms, stories, parking availability, furnishing status, and other amenities using the **Linear Regression** algorithm.
 
-The project demonstrates a complete Machine Learning workflow, including Data preprocessing & Feature Engineering, Exploratory Data Analysis (EDA), model training, evaluation, and web interface to predict pricing using various features as input.
+The project demonstrates a complete Machine Learning workflow, including Data preprocessing & Feature Engineering, Exploratory Data Analysis (EDA), model training, evaluation, and web interface to predict pricing using various features as input. 
 
 ---
 
